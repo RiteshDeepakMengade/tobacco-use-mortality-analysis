@@ -4,6 +4,7 @@
 
 Analyzed global tobacco consumption data and mortality statistics from 2004 to 2015 to identify patterns and potential correlations between tobacco use and health outcomes. The project aimed to understand long-term trends and generate insights related to public health.
 
+
 ✦ Key Responsibilities
 
 • Collected and analyzed tobacco usage datasets
@@ -16,6 +17,7 @@ Analyzed global tobacco consumption data and mortality statistics from 2004 to 2
 
 • Created visualizations to represent trends and comparisons
 
+
 ✦ Key Insights
 
 • Identified increasing and decreasing trends in tobacco consumption
@@ -23,6 +25,7 @@ Analyzed global tobacco consumption data and mortality statistics from 2004 to 2
 • Highlighted regions with higher tobacco usage rates
 
 • Observed correlations between tobacco use and mortality rates
+
 
 ✦ Tools & Technologies Used Python
 
