@@ -9,6 +9,13 @@ Analyzed global tobacco consumption data and mortality statistics from 2004 to 2
 Tobacco Risk & Outcome Analysis
 ![Tobacco Mortality dashboard](TobacooRisk&OutcomeAnalysis.png)
 
+Tobacco Impact Deep Dive
+![Tobacco Mortality dashboard](TobacooImpactDeepDive.png)
+
+Tooltip View
+![Tobacco Mortality dashboard](TooltipView.png)
+
+
 ✦ Key Responsibilities
 
 • Collected and analyzed tobacco usage datasets
