@@ -10,7 +10,7 @@ Tobacco Risk & Outcome Analysis
 ![Tobacco Mortality dashboard](TobacooRisk&OutcomeAnalysis.png)
 
 Tobacco Impact Deep Dive
-![Tobacco Mortality dashboard](TobacooImpactDeepDive.png)
+![Tobacco Mortality dashboard](TobacooImpactDeepDrive.png)
 
 Tooltip View
 ![Tobacco Mortality dashboard](TooltipView.png)
