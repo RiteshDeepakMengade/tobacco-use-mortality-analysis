@@ -4,6 +4,7 @@
 
 Analyzed global tobacco consumption data and mortality statistics from 2004 to 2015 to identify patterns and potential correlations between tobacco use and health outcomes. The project aimed to understand long-term trends and generate insights related to public health.
 
+![Tobacco Mortality dashboard](ExecutiveIntelligenceDashboard.png)
 
 ✦ Key Responsibilities
 
